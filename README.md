@@ -37,6 +37,7 @@ danger just a bit, don't you think?
 
 ## Chapter IV
 ### Exercise 00: Arithmetic
+
 Here in a jungle you can find some weird creatures that you need to treat in an unusual
 way. For this task you need to write a function getElement(arr []int, idx int) (int,
 error) that accepts and an index and gives you back the element with this index. Seems
