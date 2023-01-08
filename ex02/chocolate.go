@@ -2,8 +2,7 @@ package main
 
 /*
 	#cgo CFLAGS: -x objective-c -DGL_SILENCE_DEPRECATION
-	#cgo LDFLAGS: -framework Cocoa -framework OpenGL
-	#include <OpenGL/gl3.h>
+	#cgo LDFLAGS: -framework Cocoa
 	#import <Cocoa/Cocoa.h>
 	#include "application.h"
 	#include "window.h"
